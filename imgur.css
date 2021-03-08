@@ -1,0 +1,52 @@
+body
+{
+  font-size: 10px; 
+}
+section{
+    background-color: skyblue;
+}
+.button1 {
+  background-color: blue;
+  
+  
+  color: white;
+  
+  text-align: center;
+  
+ 
+  font-size: 12px;
+  margin: 8px 4px;
+ 
+}
+.circle {
+    border-radius: 150px;
+}
+.button {
+    background-color: blue;
+    box-align: right;
+    
+    color: white;
+    
+    text-align: center;
+    
+    font-size: 12px;
+    margin: 8px 4px;
+   
+  }
+
+
+form{
+    text-align: center;
+}
+.fieldset{
+    
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    border-style: solid ; border-color: black;
+    height: min-content;
+    width: 350px;
+   
+    
+
+}
